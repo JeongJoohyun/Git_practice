@@ -1,0 +1,5 @@
+class sugang{
+    void main(){
+        Console.WriteLine("hello sugang");
+    }
+}
